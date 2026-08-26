@@ -2,6 +2,11 @@
 
 This repository contains practical implementations and experiments related to 🌐 Network Security, 🔢 Number Theory, and 🔒 Cryptography.
 
+🎯 Objective
+
+To gain hands-on experience with network reconnaissance, packet analysis, number-theoretic algorithms, and fundamental cryptographic techniques used in cybersecurity.
+
+
 🧪 Practicals Covered
 
 1. Introduction to Nmap
@@ -32,9 +37,6 @@ Implementation of the RSA public-key cryptographic algorithm, including key gene
 
 Implementation of the Diffie-Hellman key exchange algorithm for establishing a shared secret key over an insecure channel.
 
-🎯 Objective
-
-To gain hands-on experience with network reconnaissance, packet analysis, number-theoretic algorithms, and fundamental cryptographic techniques used in cybersecurity.
 
 🛠️ Tools & Technologies
 - Nmap
@@ -43,4 +45,4 @@ To gain hands-on experience with network reconnaissance, packet analysis, number
 - Number Theory
 - Cryptography
 
-«⚠️ Note: These practicals are intended for educational and academic purposes only.»
+⚠️ Note: These practicals are intended for educational and academic purposes only.
