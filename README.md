@@ -4,31 +4,31 @@ This repository contains practical implementations and experiments related to �
 
 🧪 Practicals Covered
 
-1. 🔎 Introduction to Nmap
+1. Introduction to Nmap
 
 Basic introduction to Nmap and network scanning techniques.
 
-2. 🦈 Inspect Incoming and Outgoing Traffic Using Wireshark
+2. Inspect Incoming and Outgoing Traffic Using Wireshark
 
 Capturing and analyzing network packets to understand incoming and outgoing traffic.
 
-3. 📊 Traffic Analysis Using Wireshark Filters
+3. Traffic Analysis Using Wireshark Filters
 
 Analyzing captured network traffic by applying different Wireshark filters.
 
-4. 🔢 Finding Multiplicative Inverse Using Extended Euclidean Theorem
+4. Finding Multiplicative Inverse Using Extended Euclidean Theorem
 
 Finding the modular multiplicative inverse using the Extended Euclidean Algorithm.
 
-5. 🧮 Miller-Rabin Primality Testing
+5. Miller-Rabin Primality Testing
 
 Implementing the Miller-Rabin probabilistic algorithm for primality testing.
 
-6. 🔐 RSA Algorithm in Cryptography
+6. RSA Algorithm in Cryptography
 
 Implementation of the RSA public-key cryptographic algorithm, including key generation, encryption, and decryption.
 
-7. 🤝 Diffie-Hellman Algorithm
+7. Diffie-Hellman Algorithm
 
 Implementation of the Diffie-Hellman key exchange algorithm for establishing a shared secret key over an insecure channel.
 
