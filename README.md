@@ -37,11 +37,10 @@ Implementation of the Diffie-Hellman key exchange algorithm for establishing a s
 To gain hands-on experience with network reconnaissance, packet analysis, number-theoretic algorithms, and fundamental cryptographic techniques used in cybersecurity.
 
 🛠️ Tools & Technologies
-
-- 🔎 Nmap
-- 🦈 Wireshark
-- 💻 Python / C / C++
-- 🔢 Number Theory
-- 🔐 Cryptography
+- Nmap
+- Wireshark
+- Python / C / C++
+- Number Theory
+- Cryptography
 
 «⚠️ Note: These practicals are intended for educational and academic purposes only.»
